@@ -1,0 +1,17 @@
+.odd {
+  background-color: pink;
+}
+
+#two {
+  color: blue;
+  font-size: 28px;
+}
+
+#green-bg {
+  background-color: green;
+  font-weight: bold;
+}
+
+.adjust-font-size {
+  font-size: 24px;
+}
